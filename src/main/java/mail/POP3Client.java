@@ -47,7 +47,7 @@ public class POP3Client {
  
         }finally{
  
-            System.out.println("建立连接！");
+            System.out.println("建立连接啦！");
         }
     }
  
